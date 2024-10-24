@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\HW2\\HW2-Q3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{238CA098-B72C-4C79-8976-BDBE69FDD398}|hHW2-Q3\\hHW2-Q3.csproj|d:\\c#\\hw2\\hw2-q3\\hhw2-q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238CA098-B72C-4C79-8976-BDBE69FDD398}|hHW2-Q3\\hHW2-Q3.csproj|solutionrelative:hhw2-q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\HW2\\HW2-Q3\\hHW2-Q3\\Program.cs",
+              "RelativeDocumentMoniker": "hHW2-Q3\\Program.cs",
+              "ToolTip": "D:\\c#\\HW2\\HW2-Q3\\hHW2-Q3\\Program.cs",
+              "RelativeToolTip": "hHW2-Q3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:54:19.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
